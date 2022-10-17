@@ -1,0 +1,22 @@
+
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÿÆÃ­üÿÿÿÿ
+‚
+java:S1130!"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(å¾é’
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(•§§†ûÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(×œÊÓ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(£Öýºúÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(¾›ÐË
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Úñªâ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(Þª‡Ì
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(£¤Íå
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(Úñªâ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(ã»€Ë
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ýÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+J
+java:S2864M"4Iterate over the "entrySet" instead of the "keySet".(Íü¶û
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(ì«ÆÅ8ïå¿¨¾0
+K
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.BankStatementCSVParserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-17T07:40:17" hostname="choesang-won-ui-MacBookAir.local" time="0.065">
+  <properties/>
+  <testcase name="betweenAnyPeriodGetData()" classname="org.example.BankStatementCSVParserTest" time="0.065"/>
+  <system-out><![CDATA[[BankTransaction{date=2017-01-30, amount=-100.0, description='Deliveroo'}, BankTransaction{date=2017-01-30, amount=-50.0, description='Tesco'}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
